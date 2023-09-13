@@ -44,6 +44,7 @@
 
 .lista-menu__titulo{
     color: var(--destaque);
+    font-weight: 700;
 }
 
 .lista-menu__link{
@@ -54,6 +55,9 @@
     text-transform: uppercase;
 }
 
+.container__botao{
+    display: none;
+}
 
 .logo{
     max-width: 24px;
