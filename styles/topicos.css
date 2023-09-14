@@ -8,7 +8,7 @@
     color: var(--branco);
     font-weight: 300;
     text-transform: uppercase;
-    
+    margin: 1em 0;
 }
 
 .topicos__lista{
