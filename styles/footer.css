@@ -1,0 +1,19 @@
+.rodape{
+    color: var(--branco);
+    background-color: var(--azul);
+    padding: 2em;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.Conteudo__footer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo__sant{
+    width: 100px;
+}

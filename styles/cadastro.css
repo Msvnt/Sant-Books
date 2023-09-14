@@ -1,11 +1,12 @@
 .cadastro{
     background: var(--branco);
-    padding: 1em;
+    padding: 2em 1em;
 }
 
 .cadastro__titulo{
     color: var(--azul);
     font-weight: 700;
+    
 }
 
 .cadastro__descricao{
@@ -18,7 +19,7 @@
     border: 1px solid var(--azul);
     color: var(--azul);
     border-radius: 24px;
-    padding: 1em;
+    padding: 1em 0;
     width: 100%;
 }
 
