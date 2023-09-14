@@ -1,0 +1,34 @@
+.cadastro{
+    background: var(--branco);
+    padding: 1em;
+}
+
+.cadastro__titulo{
+    color: var(--azul);
+    font-weight: 700;
+}
+
+.cadastro__descricao{
+    font-size: 14px;
+    padding: 1em 0;
+}
+
+.cadastro__pesquisa{
+    background-color: transparent;
+    border: 1px solid var(--azul);
+    color: var(--azul);
+    border-radius: 24px;
+    padding: 1em;
+    width: 100%;
+}
+
+.cadastro__pesquisa::placeholder{
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--azul);
+    background: url(/assets/Email.png) no-repeat;
+    background-position: 1em;
+    
+}
