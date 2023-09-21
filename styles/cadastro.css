@@ -34,3 +34,29 @@
     background-position: 1em;
     
 }
+
+@media screen and (min-width:1024px){
+    .cadastro{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 3em;
+    }
+    .cadastro__descricao{
+        margin-right: 1em;
+        
+
+    }
+
+    .cadastro__titulo{
+        font-size: 24px;
+    }
+}
+
+@media screen and (min-width:1728px){
+    .cadastro{
+        padding: 3em 24vw;
+    }
+
+
+}
